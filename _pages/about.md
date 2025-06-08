@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ---
-(/Users/sameermankotia/Desktop/SameerMankotia.github.io/images/Pic.png) {: .align-right width="300px"}
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/sameermankotia/Desktop/SameerMankotia.github.io/images/Pic.png?version%3D1749422975187)
 ### 📜 About Me
 
 I’m a Ph.D. student in Computer Science at the University of Idaho, with a Bachelor's in the same field. My journey in tech has been fueled by curiosity, persistence, and a commitment to innovation. From developing intuitive software solutions to advancing research in assembly languages like RISC-V, I strive to make meaningful contributions to the tech ecosystem.  
