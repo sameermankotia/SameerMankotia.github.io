@@ -1,7 +1,29 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+# CloudPoint: Future Week Forecast
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+CloudPoint is a React-based web application that provides weather forecasts for the upcoming week. It offers a user-friendly interface with features like city search, daily and hourly weather information, and a theme toggle.
+
+## Features
+
+- **City Search**: Users can search for weather forecasts in different cities.
+- **Daily Weather**: Displays weather information for the next week.
+- **Hourly Weather**: Shows hourly temperature trends in a chart.
+- **Theme Toggle**: Supports both light and dark modes.
+- **Responsive Design**: Works well on both desktop and mobile devices.
+
+## Technologies Used
+
+- React
+- React Router
+- Redux (for state management)
+- React Bootstrap
+- Framer Motion (for animations)
+- Recharts (for weather charts)
+- Font Awesome (for icons)
+
+## Components
+
+1. **Brand**: Renders the app logo and title.
+2. **Header**: Contains the main navigation and search functionality.
+3. **Panel**: Sidebar component that displays daily weather information.
+4. **Root**: The main layout component that combines all other components.
+5. **Weather**: Displays detailed weather information including temperature, wind speed, and hourly forecast.
