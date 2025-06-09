@@ -7,14 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-<div style="flex: 1;">
 
- **Researching On Making Systems Secure**
-
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+<div style="display: flex; align-items: center;">
+<div style="flex: 1; color: white;">
+<h1 style="margin: 0 0 10px 0; font-size: 2.5em; font-weight: bold; color: white;">WELCOME</h1>
+<h2 style="margin: 0 0 15px 0; font-size: 1.5em; font-style: italic; color: rgba(255,255,255,0.9);">Working On Making System Secure</h2>
+<p style="margin: 0 0 10px 0; font-size: 1.1em; font-weight: bold; color: white;">
+<span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px; margin-right: 10px;">PhD Student</span>
+<span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px; margin-right: 10px;">RISC-V Research Pioneer</span>
+<span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px;">AI Innovation Architect</span>
+</p>
+<p style="margin: 10px 0 0 0; font-size: 1em; font-style: italic; color: rgba(255,255,255,0.8);">"Where quantum possibilities meet silicon reality"</p>
 </div>
 <div style="flex: 0 0 350px; margin-left: 30px;">
-<img src="https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-124669.jpg" alt="Next-Gen AI Computing Lab" style="width: 100%; border-radius: 15px; border: 3px solid rgba(255,255,255,0.3); box-shadow: 0 8px 25px rgba(0,0,0,0.4); transform: perspective(1000px) rotateY(-5deg);">
+<img src="https://ibb.co/yH7Cxyx" alt="Next-Gen AI Computing Lab" style="width: 100%; border-radius: 15px; border: 3px solid rgba(255,255,255,0.3); box-shadow: 0 8px 25px rgba(0,0,0,0.4); transform: perspective(1000px) rotateY(-5deg);">
 </div>
 </div>
 </div>
