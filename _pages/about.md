@@ -13,8 +13,9 @@ redirect_from:
  **Researching On Making Systems Secure**
 
 </div>
-<div style="flex: 0 0 400px; margin-left: 20px;">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.totalphase.com%2Fblog%2F2017%2F08%2Fthe-future-of-ai-and-the-embedded-system%2F&psig=AOvVaw3m9xOIexsj-Xnsh-KA8QLn&ust=1749581563138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD4za-B5Y0DFQAAAAAdAAAAABAc" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="flex: 0 0 350px; margin-left: 30px;">
+<img src="https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-124669.jpg" alt="Next-Gen AI Computing Lab" style="width: 100%; border-radius: 15px; border: 3px solid rgba(255,255,255,0.3); box-shadow: 0 8px 25px rgba(0,0,0,0.4); transform: perspective(1000px) rotateY(-5deg);">
+</div>
 </div>
 </div>
 
