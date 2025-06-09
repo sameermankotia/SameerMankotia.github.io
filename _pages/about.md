@@ -12,11 +12,11 @@ redirect_from:
 
 # 🚀 Building Tomorrow's Technology Today
 
-## PhD Student | RISC-V Research Pioneer | AI Innovation Leader
+**PhD Student | RISC-V Research Pioneer | AI Innovation Leader**
 
 </div>
 <div style="flex: 0 0 400px; margin-left: 20px;">
-<img src="images/Pic.png" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.byte-lab.com%2Fembedded-ai-demystified-a-deep-dive-into-applications-and-benefits%2F&psig=AOvVaw3m9xOIexsj-Xnsh-KA8QLn&ust=1749581563138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD4za-B5Y0DFQAAAAAdAAAAABAK" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 </div>
 
