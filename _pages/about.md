@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "WELCOME"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,7 @@ redirect_from:
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
 <div style="flex: 1;">
 
- 🚀 **Innovator and Learner**
-
-**PhD Student | RISC-V Research | AI**
+ 🚀 Working on making Systems Secure
 
 </div>
 <div style="flex: 0 0 400px; margin-left: 20px;">
@@ -137,11 +135,33 @@ In an era where **computing efficiency** and **intelligent automation** are crit
 
 Whether you're interested in **collaborative research**, **innovative projects**, or just want to discuss the future of technology, I'm always excited to connect with fellow innovators and visionaries.
 
-### **Contact Information**
-- **📧 Email**: [saameermankotia24@gmail.com](mailto:saameermankotia24@gmail.com)
-- **💼 LinkedIn**: [linkedin.com/in/sameer-mankotia](https://linkedin.com/in/sameer-mankotia)
-- **🔗 GitHub**: [github.com/Sameermankotia](https://github.com/Sameermankotia)
-- **🏫 University Profile**: Computer Science PhD Student, University of Idaho
+Whether you're a fellow researcher, industry innovator, startup founder, or just someone who believes technology should make the world awesome—let's connect and build something legendary together.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 30px 0;">
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(255,107,107,0.3); transform: translateY(0); transition: transform 0.3s ease;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">📧</div>
+<h3 style="margin: 10px 0; font-size: 1.2em;">EMAIL DIRECT LINE</h3>
+<p style="margin: 5px 0; opacity: 0.9;">saameermankotia24@gmail.com</p>
+<small style="opacity: 0.8;">Ready to discuss the future?</small>
+</div>
+<div style="background: linear-gradient(135deg, #0077b5 0%, #00a0dc 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(0,119,181,0.3); transform: translateY(0); transition: transform 0.3s ease;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">💼</div>
+<h3 style="margin: 10px 0; font-size: 1.2em;">PROFESSIONAL NETWORK</h3>
+<p style="margin: 5px 0; opacity: 0.9;">@sameer-mankotia</p>
+<small style="opacity: 0.8;">Connect for collaborations</small>
+</div>
+<div style="background: linear-gradient(135deg, #333 0%, #666 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(51,51,51,0.3); transform: translateY(0); transition: transform 0.3s ease;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">⚡</div>
+<h3 style="margin: 10px 0; font-size: 1.2em;">CODE REPOSITORY</h3>
+<p style="margin: 5px 0; opacity: 0.9;">@Sameermankotia</p>
+<small style="opacity: 0.8;">Explore my digital creations</small>
+</div>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(102,126,234,0.3); transform: translateY(0); transition: transform 0.3s ease;">
+<div style="font-size: 2.5em; margin-bottom: 10px;">🎓</div>
+<h3 style="margin: 10px 0; font-size: 1.2em;">ACADEMIC HUB</h3>
+<p style="margin: 5px 0; opacity: 0.9;">University of Idaho</p>
+<small style="opacity: 0.8;">PhD Computer Science</small>
+</div>
+</div>
 
 
 
