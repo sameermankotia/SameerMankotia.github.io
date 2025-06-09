@@ -16,7 +16,7 @@ redirect_from:
 
 </div>
 <div style="flex: 0 0 400px; margin-left: 20px;">
-<img src="/Users/sameermankotia/Desktop/SameerMankotia.github.io/images/Pic.png" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="images/Pic.png" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 </div>
 
