@@ -10,9 +10,9 @@ redirect_from:
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
 <div style="flex: 1;">
 
-# 🚀 Building Tomorrow's Technology Today
+ 🚀 **Innovator and Learner**
 
-**PhD Student | RISC-V Research Pioneer | AI Innovation Leader**
+**PhD Student | RISC-V Research | AI**
 
 </div>
 <div style="flex: 0 0 400px; margin-left: 20px;">
@@ -20,7 +20,7 @@ redirect_from:
 </div>
 </div>
 
----
+
 
 ## 🎯 About Me
 
@@ -28,7 +28,7 @@ I'm a **fully-funded PhD student** in Computer Science at the University of Idah
 
 From developing intuitive software solutions that serve thousands of users to pioneering research in next-generation computing architectures, I'm committed to creating technology that doesn't just solve today's problems—but anticipates tomorrow's challenges.
 
----
+
 
 ## 🔥 Latest News & Achievements
 
@@ -44,7 +44,7 @@ Starting an exciting internship with the [**Institute for Interdisciplinary Data
 ### 🥇 **2024-25: Best Student Employee Award**
 Recognized as the **Best Student Employee** for my outstanding contributions as a Software Developer Intern, delivering high-impact solutions and exceeding performance expectations.
 
----
+
 
 ## 💻 Technical Arsenal
 
@@ -66,7 +66,7 @@ Recognized as the **Best Student Employee** for my outstanding contributions as 
 - **Data Science**: GIS, data visualization, predictive analytics
 - **Software Engineering**: Object-oriented design, scalable system architecture
 
----
+
 
 ## 🏗️ Flagship Projects
 
@@ -92,7 +92,7 @@ Recognized as the **Best Student Employee** for my outstanding contributions as 
 - **Tech Stack**: Flask, Vue.js, MongoDB
 - **Focus**: User engagement optimization through intelligent design patterns
 
----
+
 
 ## 🔬 Research & Innovation
 
@@ -110,7 +110,7 @@ Exploring the intersection of **artificial intelligence** and **administrative d
 - Optimize student success pathways through data analysis
 - Automate complex administrative processes with intelligent workflows
 
----
+
 
 ## 🏆 Recognition & Certifications
 
@@ -120,7 +120,7 @@ Exploring the intersection of **artificial intelligence** and **administrative d
 - **📜 REST API Intermediate Certification**
 - **📄 Published Research**: "Deep Learning-Powered Interactive Art Framework" - [International Research Journal](https://www.irejournals.com/formatedpaper/1706740.pdf)
 
----
+
 
 ## 🌟 Why My Research Matters
 
@@ -131,7 +131,7 @@ In an era where **computing efficiency** and **intelligent automation** are crit
 - **🌍 Real-World Impact**: Developing solutions that solve actual problems in industry and academia
 - **🚀 Future-Ready Technology**: Building the foundation for next-generation computing systems
 
----
+
 
 ## 🤝 Let's Build the Future Together
 
@@ -143,8 +143,7 @@ Whether you're interested in **collaborative research**, **innovative projects**
 - **🔗 GitHub**: [github.com/Sameermankotia](https://github.com/Sameermankotia)
 - **🏫 University Profile**: Computer Science PhD Student, University of Idaho
 
----
 
-*"The best way to predict the future is to invent it. Let's create tomorrow's technology today."* 🚀
 
----
+**What a computer is to me is the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds - Steve Jobs** 🚀
+
