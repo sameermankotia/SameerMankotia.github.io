@@ -6,28 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-<div style="display: flex; align-items: center;">
-<div style="flex: 1; color: white;">
-<h1 style="margin: 0 0 10px 0; font-size: 2.5em; font-weight: bold; color: white;">WELCOME</h1>
-<h2 style="margin: 0 0 15px 0; font-size: 1.5em; font-style: italic; color: rgba(255,255,255,0.9);">Working On Making System Secure</h2>
-<p style="margin: 0 0 10px 0; font-size: 1.1em; font-weight: bold; color: white;">
-<span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px; margin-right: 10px;">PhD Student</span>
-<span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px; margin-right: 10px;">RISC-V Research Pioneer</span>
-<span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px;">AI Innovation Architect</span>
-</p>
-<p style="margin: 10px 0 0 0; font-size: 1em; font-style: italic; color: rgba(255,255,255,0.8);">"Where quantum possibilities meet silicon reality"</p>
-</div>
-<div style="flex: 0 0 350px; margin-left: 30px;">
-<img src="https://ibb.co/yH7Cxyx" alt="Next-Gen AI Computing Lab" style="width: 100%; border-radius: 15px; border: 3px solid rgba(255,255,255,0.3); box-shadow: 0 8px 25px rgba(0,0,0,0.4); transform: perspective(1000px) rotateY(-5deg);">
-</div>
-</div>
-</div>
-
-
-
 ## 🎯 About Me
 
 I'm a **fully-funded PhD student** in Computer Science at the University of Idaho, where I'm pushing the boundaries of computing architecture and artificial intelligence. My research focuses on **RISC-V instruction set simulators** and **AI-driven solutions**, combining cutting-edge hardware understanding with intelligent software design.
@@ -147,25 +125,25 @@ Whether you're a fellow researcher, industry innovator, startup founder, or just
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 30px 0;">
 <div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(255,107,107,0.3); transform: translateY(0); transition: transform 0.3s ease;">
 <div style="font-size: 2.5em; margin-bottom: 10px;">📧</div>
-<h3 style="margin: 10px 0; font-size: 1.2em;">EMAIL DIRECT LINE</h3>
-<p style="margin: 5px 0; opacity: 0.9;">saameermankotia24@gmail.com</p>
+<h3 style="margin: 10px 0; font-size: 1.2em;">Email Me</h3>
+<p style="margin: 5px 0; opacity: 0.9;">mank8837@vandals.uidaho.edu</p>
 <small style="opacity: 0.8;">Ready to discuss the future?</small>
 </div>
 <div style="background: linear-gradient(135deg, #0077b5 0%, #00a0dc 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(0,119,181,0.3); transform: translateY(0); transition: transform 0.3s ease;">
 <div style="font-size: 2.5em; margin-bottom: 10px;">💼</div>
-<h3 style="margin: 10px 0; font-size: 1.2em;">PROFESSIONAL NETWORK</h3>
+<h3 style="margin: 10px 0; font-size: 1.2em;">LinkdIn</h3>
 <p style="margin: 5px 0; opacity: 0.9;">@sameer-mankotia</p>
 <small style="opacity: 0.8;">Connect for collaborations</small>
 </div>
 <div style="background: linear-gradient(135deg, #333 0%, #666 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(51,51,51,0.3); transform: translateY(0); transition: transform 0.3s ease;">
 <div style="font-size: 2.5em; margin-bottom: 10px;">⚡</div>
-<h3 style="margin: 10px 0; font-size: 1.2em;">CODE REPOSITORY</h3>
+<h3 style="margin: 10px 0; font-size: 1.2em;">GitHub</h3>
 <p style="margin: 5px 0; opacity: 0.9;">@Sameermankotia</p>
 <small style="opacity: 0.8;">Explore my digital creations</small>
 </div>
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 8px 25px rgba(102,126,234,0.3); transform: translateY(0); transition: transform 0.3s ease;">
 <div style="font-size: 2.5em; margin-bottom: 10px;">🎓</div>
-<h3 style="margin: 10px 0; font-size: 1.2em;">ACADEMIC HUB</h3>
+<h3 style="margin: 10px 0; font-size: 1.2em;">Academic Profile</h3>
 <p style="margin: 5px 0; opacity: 0.9;">University of Idaho</p>
 <small style="opacity: 0.8;">PhD Computer Science</small>
 </div>
