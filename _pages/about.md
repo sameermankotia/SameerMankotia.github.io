@@ -10,11 +10,11 @@ redirect_from:
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
 <div style="flex: 1;">
 
- 🚀 Working on making Systems Secure
+ **Researching on making Systems Secure**
 
 </div>
 <div style="flex: 0 0 400px; margin-left: 20px;">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.byte-lab.com%2Fembedded-ai-demystified-a-deep-dive-into-applications-and-benefits%2F&psig=AOvVaw3m9xOIexsj-Xnsh-KA8QLn&ust=1749581563138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD4za-B5Y0DFQAAAAAdAAAAABAK" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.totalphase.com%2Fblog%2F2017%2F08%2Fthe-future-of-ai-and-the-embedded-system%2F&psig=AOvVaw3m9xOIexsj-Xnsh-KA8QLn&ust=1749581563138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD4za-B5Y0DFQAAAAAdAAAAABAc" alt="Futuristic Technology Lab" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 </div>
 
