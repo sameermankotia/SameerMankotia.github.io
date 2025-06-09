@@ -14,19 +14,19 @@ From developing intuitive software solutions that serve thousands of users to pi
 
 
 
-## 🔥 Latest News & Achievements
+## Latest News
 
 ### 🏆 **January 2025: SEL Grant Fellowship Recipient**
-Selected as a **fully-funded PhD student** through the prestigious [**SEL Grant**](https://selinc.com/), recognizing my potential to contribute groundbreaking research in computing systems and electrical engineering applications.
+Selected as a **fully-funded PhD student** through the prestigious [**SEL Grant**](https://selinc.com/), for working on RISC-V based Stimulator for making Systems Secure .
 
 ### 💼 **Summer 2025: HPE Aruba Networking Software Engineer Intern**
-Joining [**HPE Aruba Networking**](https://www.hpe.com/us/en/networking/hpe-aruba-networking.html) as a **Software Engineer Intern** to work on next-generation network infrastructure and intelligent connectivity solutions.
+Joining [**HPE Aruba Networking**](https://www.hpe.com/us/en/networking/hpe-aruba-networking.html) as a **Software Engineer Intern**.
 
 ### 🧠 **Fall 2025: AI Solutions Developer at IIDS**
-Starting an exciting internship with the [**Institute for Interdisciplinary Data Sciences (IIDS)**](https://www.iids.uidaho.edu/) at University of Idaho, where I'll be **developing AI solutions for university administration decisions**, transforming how educational institutions leverage data-driven insights.
+Wiil be starting an exciting internship with the [**Institute for Interdisciplinary Data Sciences (IIDS)**](https://www.iids.uidaho.edu/) at University of Idaho, where I'll be **developing AI solutions for university administration decisions**, transforming how educational institutions leverage data-driven insights.
 
 ### 🥇 **2024-25: Best Student Employee Award**
-Recognized as the **Best Student Employee** for my outstanding contributions as a Software Developer Intern, delivering high-impact solutions and exceeding performance expectations.
+Recognized as the [**Best Student Employee**](https://www.uidaho.edu/current-students/student-involvement/events/signature-events/awards/past-recipients) for my outstanding contributions as a Software Developer Intern at University Of Idaho, delivering high-impact solutions and exceeding performance expectations.
 
 
 
