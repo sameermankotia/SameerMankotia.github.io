@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sameer Mankotia - Pioneering the Future of Computing"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
