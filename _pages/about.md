@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## 🎯 About Me
 
-I'm a **fully-funded PhD student** in Computer Science at the University of Idaho, where I'm pushing the boundaries of computing architecture and artificial intelligence. My research focuses on **RISC-V instruction set simulators** and **AI-driven solutions**, combining cutting-edge hardware understanding with intelligent software design.
+I'm a **fully-funded PhD student** in Computer Science at the University of Idaho ,advised by [Dr. Daniel Conte De Leon](https://www.uidaho.edu/engr/departments/cs/our-people/faculty/conte-de-leon) where I'm pushing the boundaries of computing architecture and artificial intelligence. My research focuses on **RISC-V instruction set simulators** , combining cutting-edge hardware understanding with intelligent software design.
 
 From developing intuitive software solutions that serve thousands of users to pioneering research in next-generation computing architectures, I'm committed to creating technology that doesn't just solve today's problems—but anticipates tomorrow's challenges.
 
@@ -18,12 +18,6 @@ From developing intuitive software solutions that serve thousands of users to pi
 
 ### 🏆 **January 2025: SEL Grant Fellowship Recipient**
 Selected as a **fully-funded PhD student** through the prestigious [**SEL Grant**](https://selinc.com/), for working on RISC-V based Stimulator for making Systems Secure .
-
-### 💼 **Summer 2025: HPE Aruba Networking Software Engineer Intern**
-Joining [**HPE Aruba Networking**](https://www.hpe.com/us/en/networking/hpe-aruba-networking.html) as a **Software Engineer Intern**.
-
-### 🧠 **Fall 2025: AI Solutions Developer at IIDS**
-Wiil be starting an exciting internship with the [**Institute for Interdisciplinary Data Sciences (IIDS)**](https://www.iids.uidaho.edu/) at University of Idaho, where I'll be **developing AI solutions for university administration decisions**, transforming how educational institutions leverage data-driven insights.
 
 ### 🥇 **2024-25: Best Student Employee Award**
 Recognized as the [**Best Student Employee**](https://www.uidaho.edu/current-students/student-involvement/events/signature-events/awards/past-recipients) for my outstanding contributions as a Software Developer Intern at University Of Idaho, delivering high-impact solutions and exceeding performance expectations.
