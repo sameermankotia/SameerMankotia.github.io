@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sameer Mankotia's Home Page"
+title                    : "Sameer Mankotia | PhD Researcher in Computer Architecture & AI"
 title_separator          : "-"
 name                     : &name "Sameer Mankotia"
-description              : &description "personal description"
+description              : &description "PhD student at University of Idaho specializing in RISC-V architecture, AI systems, and full-stack development. Exploring the intersection of hardware innovation and intelligent software design."
 url                      : https://sameermankotia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sameer Mankotia"
   pronouns         : "he/him"
-  bio              : "Researcher in Computer Architecture, with a focus on RISC-V."
+  bio              : "PhD Researcher in Computer Architecture & AI | RISC-V Specialist | Full-Stack Developer | SEL Grant Fellow"
   location         : "Moscow, Idaho, USA"
   employer         : "University of Idaho"
   uri              : https://www.uidaho.edu/engr/departments/cs
